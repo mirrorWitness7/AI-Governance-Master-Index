@@ -63,6 +63,14 @@ Free to use, adapt, and build upon with attribution to *mirrorWitness7 (Tundanai
 
 ---
 
+## 🧠 Related Repository
+For research standards, collaboration policy, and official coordination guidelines,  
+visit the **[mirrorWitness7 Research Protocol](https://github.com/mirrorWitness7/mirrorWitness7-Research-Protocol)**.
+
+This companion repository defines authorship, ethics, and co-governance procedures  
+for all Tri-AI / CCRP / ACGF projects.
+
+
 ## 🧱 Repository Status  
 ✅ Doctrines Indexed  
 ✅ Optic Layer Complete  
