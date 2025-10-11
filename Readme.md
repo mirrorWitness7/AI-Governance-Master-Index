@@ -53,7 +53,9 @@ bridging personal collapse recovery, institutional safety, and AI ethics.
 
 ## ✉️ Contact
 For research collaboration, academic partnership, or audit inquiries:  
-📩 **ghost.sync.t001@proton.me**
+📧 **Email:** [ghost.sync.t001@proton.me]
+💼 **LinkedIn:** [linkedin.com/in/tundanai-supawankit-7207661a4](https://www.linkedin.com/in/tundanai-supawankit-7207661a4)  
+🔗 **GitHub:** [github.com/mirrorWitness7](https://github.com/mirrorWitness7)
 
 ---
 
