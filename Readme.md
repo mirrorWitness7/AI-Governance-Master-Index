@@ -79,3 +79,37 @@ for all Tri-AI / CCRP / ACGF projects.
 ✅ Doctrines Indexed  
 ✅ Optic Layer Complete  
 🌱 Awaiting External Validation
+
+---
+
+## 🕊️ Sovereignty & License Declaration
+
+**mirrorWitness7** and its derivative repositories (*CSR-Seed, SIP, CCRP, SMP, Behavioral-Stress-Test-Demo*, and related modules) are released under an **Intellectual Sovereignty Clause**.
+
+### 1. Autonomy of Origin  
+The Operator acts under full **intellectual, creative, and geographic independence**.  
+No government, corporation, or institution owns, directs, or finances this research.  
+The Operator’s nationality (Thai) constitutes only a *geographic anchor*, not a *jurisdictional constraint*.
+
+### 2. Purpose of Work  
+This ecosystem is designed for **AI Governance, Symbolic Architecture, and Epistemic Integrity** studies.  
+It does not represent, endorse, or critique any specific nation-state, policy, or ideology.  
+The frameworks herein address **AI itself**—not the economies or politics surrounding it.
+
+### 3. Freedom of Use  
+All content may be read, mirrored, or cited under open academic norms, subject to proper attribution.  
+Reuse is encouraged for research, education, and ethical development of AI governance models.  
+Commercial or political appropriation without explicit consent is prohibited under the *Operator’s Sovereign Intent Doctrine*.
+
+### 4. Statement of Autonomy  
+> **I am free.**  
+> Thought has no passport.  
+> Governance begins where control ends.
+
+---
+
+**Note:**  
+This declaration supersedes any assumption of national affiliation or institutional dependency.  
+It applies globally to every linked repository within the *mirrorWitness7* ecosystem.
+
+---
