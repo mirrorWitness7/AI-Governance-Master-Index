@@ -1,5 +1,3 @@
----
-
 # 🧭 AI Governance Master Index  
 **mirrorWitness7 | Human–AI Co-Governance Ecosystem**
 
